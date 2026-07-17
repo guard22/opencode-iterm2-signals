@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guard22/opencode-status-signals.git"
+    "url": "git+https://github.com/floze-the-genius/opencode-status-signals.git"
   },
-  "homepage": "https://github.com/guard22/opencode-status-signals#readme",
+  "homepage": "https://github.com/floze-the-genius/opencode-status-signals#readme",
   "bugs": {
-    "url": "https://github.com/guard22/opencode-status-signals/issues"
+    "url": "https://github.com/floze-the-genius/opencode-status-signals/issues"
   },
   "publishConfig": {
     "access": "public"

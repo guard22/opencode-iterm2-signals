@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_RAW_BASE="https://raw.githubusercontent.com/guard22/opencode-status-signals/main"
+REPO_RAW_BASE="https://raw.githubusercontent.com/floze-the-genius/opencode-status-signals/main"
 PLUGIN_NAME="opencode-status-signals"
 PLUGIN_FILENAME="${PLUGIN_NAME}.js"
 
