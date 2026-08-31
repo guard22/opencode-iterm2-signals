@@ -1,3 +1,5 @@
+
+
 # OpenCode Status Signals
 
 Visual status signals for OpenCode sessions, powered by OpenCode's own TUI theme system.
@@ -161,7 +163,7 @@ Plugin options supported in `tui.json`:
 - `permissionTheme`
 - `errorTheme`
 - `forceThemeMode` (`dark`, `light`, or `system`)
-- `pollMs`
+- `pollMs` (minimum `500`)
 - `debug`
 
 The interactive `/theme-states` flow can override these defaults and save user mappings locally.
